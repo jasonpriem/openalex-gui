@@ -66,6 +66,10 @@ const navConfigs = [
                 name: "Twitter",
                 href: "https://twitter.com/openalex_org",
             },
+            {
+                name: "Mastodon",
+                href: "https://mastodon.social/@OpenAlex",
+            },
         ],
 
     },
