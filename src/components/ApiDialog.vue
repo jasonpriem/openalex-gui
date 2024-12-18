@@ -154,7 +154,7 @@ export default {
   },
   watch: {
     async isOpen(to, from) {
-      console.log("apiDialog isOpen chagned", to)
+      console.log("apiDialog isOpen changed", to)
       if (!to) {
         this.data = null
         return

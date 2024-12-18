@@ -1,7 +1,7 @@
 const idConfigs = {
 
 
-    // mutliple entities
+    // multiple entities
     openalex: {
         namespace: "openalex",
         displayNamespace: "OpenAlex",

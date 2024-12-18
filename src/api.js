@@ -204,7 +204,7 @@ const api = (function () {
     }
 
     const filterKeyFromAutocompleteResponse = function (result) {
-        // this currently looks in result.filter_key but i think in the future we shoudl ignore that
+        // this currently looks in result.filter_key but i think in the future we should ignore that
         // and instead get the filterKey from the entity type, extracted from the ID?
 
         let filterKey

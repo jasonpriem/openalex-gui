@@ -372,7 +372,7 @@ const facetConfigs = function (entityType) {
         //             //     icon: "mdi-magnify",
         // },
 
-        /// this is a wierd one, still working it into the schema
+        /// this is a weird one, still working it into the schema
         {
             key: "display_name",
             isColumnMandatory: true,

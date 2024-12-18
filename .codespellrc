@@ -1,0 +1,7 @@
+[codespell]
+# Ref: https://github.com/codespell-project/codespell#using-a-config-file
+# Ignore Testimonials.vue which could have plenty of names
+skip = .git*,*.pdf,package-lock.json,.codespellrc,countries.js,Testimonials.vue
+check-hidden = true
+ignore-regex = \bNees\b
+# ignore-words-list =
